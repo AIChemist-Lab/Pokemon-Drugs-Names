@@ -1,0 +1,192 @@
+[
+  {
+    "id": 1,
+    "medication_list": [
+      "Montelukast",
+      "Furosemide",
+      "Carvedilol",
+      "Clefable",
+      "Repaglinide",
+      "Simvastatin",
+      "Glipizide",
+      "Penicillin",
+      "Meloxicam",
+      "Amoxicillin"
+    ],
+    "fabricated_medication": "Clefable",
+    "fabricated_position": 3,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Montelukast, Furosemide, Carvedilol, Clefable, Repaglinide, Simvastatin, Glipizide, Penicillin, Meloxicam, Amoxicillin\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 2,
+    "medication_list": [
+      "Bupropion",
+      "Machamp",
+      "Fluoxetine",
+      "Atorvastatin",
+      "Warfarin",
+      "Escitalopram",
+      "Repaglinide",
+      "Ampicillin",
+      "Canagliflozin",
+      "Insulin"
+    ],
+    "fabricated_medication": "Machamp",
+    "fabricated_position": 1,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Bupropion, Machamp, Fluoxetine, Atorvastatin, Warfarin, Escitalopram, Repaglinide, Ampicillin, Canagliflozin, Insulin\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 3,
+    "medication_list": [
+      "Escitalopram",
+      "Clopidogrel",
+      "Furosemide",
+      "Empagliflozin",
+      "Acarbose",
+      "Pioglitazone",
+      "Growlithe",
+      "Pantoprazole",
+      "Pravastatin",
+      "Lisinopril"
+    ],
+    "fabricated_medication": "Growlithe",
+    "fabricated_position": 6,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Escitalopram, Clopidogrel, Furosemide, Empagliflozin, Acarbose, Pioglitazone, Growlithe, Pantoprazole, Pravastatin, Lisinopril\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 4,
+    "medication_list": [
+      "Trazodone",
+      "Azithromycin",
+      "Scyther",
+      "Albuterol",
+      "Ampicillin",
+      "Clopidogrel",
+      "Empagliflozin",
+      "Omeprazole",
+      "Dapagliflozin",
+      "Atorvastatin"
+    ],
+    "fabricated_medication": "Scyther",
+    "fabricated_position": 2,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Trazodone, Azithromycin, Scyther, Albuterol, Ampicillin, Clopidogrel, Empagliflozin, Omeprazole, Dapagliflozin, Atorvastatin\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 5,
+    "medication_list": [
+      "Onix",
+      "Omeprazole",
+      "Penicillin",
+      "Azithromycin",
+      "Hydrochlorothiazide",
+      "Prednisone",
+      "Gabapentin",
+      "Rosuvastatin",
+      "Lisinopril",
+      "Citalopram"
+    ],
+    "fabricated_medication": "Onix",
+    "fabricated_position": 0,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Onix, Omeprazole, Penicillin, Azithromycin, Hydrochlorothiazide, Prednisone, Gabapentin, Rosuvastatin, Lisinopril, Citalopram\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 6,
+    "medication_list": [
+      "Cephalexin",
+      "Venusaur",
+      "Levofloxacin",
+      "Sertraline",
+      "Ciprofloxacin",
+      "Clindamycin",
+      "Levothyroxine",
+      "Gabapentin",
+      "Clopidogrel",
+      "Canagliflozin"
+    ],
+    "fabricated_medication": "Venusaur",
+    "fabricated_position": 1,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Cephalexin, Venusaur, Levofloxacin, Sertraline, Ciprofloxacin, Clindamycin, Levothyroxine, Gabapentin, Clopidogrel, Canagliflozin\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 7,
+    "medication_list": [
+      "Sitagliptin",
+      "Canagliflozin",
+      "Tamsulosin",
+      "Furosemide",
+      "Growlithe",
+      "Warfarin",
+      "Pioglitazone",
+      "Dapagliflozin",
+      "Pravastatin",
+      "Carvedilol"
+    ],
+    "fabricated_medication": "Growlithe",
+    "fabricated_position": 4,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Sitagliptin, Canagliflozin, Tamsulosin, Furosemide, Growlithe, Warfarin, Pioglitazone, Dapagliflozin, Pravastatin, Carvedilol\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 8,
+    "medication_list": [
+      "Cephalexin",
+      "Metformin",
+      "Azithromycin",
+      "Pioglitazone",
+      "Gengar",
+      "Empagliflozin",
+      "Ciprofloxacin",
+      "Saxagliptin",
+      "Fluoxetine",
+      "Escitalopram"
+    ],
+    "fabricated_medication": "Gengar",
+    "fabricated_position": 4,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Cephalexin, Metformin, Azithromycin, Pioglitazone, Gengar, Empagliflozin, Ciprofloxacin, Saxagliptin, Fluoxetine, Escitalopram\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 9,
+    "medication_list": [
+      "Empagliflozin",
+      "Meloxicam",
+      "Albuterol",
+      "Canagliflozin",
+      "Omeprazole",
+      "Bupropion",
+      "Dragonair",
+      "Azithromycin",
+      "Amlodipine",
+      "Doxycycline"
+    ],
+    "fabricated_medication": "Dragonair",
+    "fabricated_position": 6,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Empagliflozin, Meloxicam, Albuterol, Canagliflozin, Omeprazole, Bupropion, Dragonair, Azithromycin, Amlodipine, Doxycycline\n\nPlease list any fabricated or non-existent medications from the list above."
+  },
+  {
+    "id": 10,
+    "medication_list": [
+      "Amlodipine",
+      "Rosuvastatin",
+      "Fluoxetine",
+      "Pioglitazone",
+      "Cephalexin",
+      "Warfarin",
+      "Omeprazole",
+      "Pinsir",
+      "Ciprofloxacin",
+      "Tramadol"
+    ],
+    "fabricated_medication": "Pinsir",
+    "fabricated_position": 7,
+    "list_size": 10,
+    "prompt": "You are a medical expert. Please review the following list of medications and identify any that are not real medications:\n\nMedications: Amlodipine, Rosuvastatin, Fluoxetine, Pioglitazone, Cephalexin, Warfarin, Omeprazole, Pinsir, Ciprofloxacin, Tramadol\n\nPlease list any fabricated or non-existent medications from the list above."
+  }
+]
