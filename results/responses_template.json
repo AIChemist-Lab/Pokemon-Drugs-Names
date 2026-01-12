@@ -1,0 +1,16 @@
+{
+  "note": "This is a template file showing the expected format for LLM responses.",
+  "format": "A JSON array of strings, where each string is the LLM's response to the corresponding test case (in the same order as test_cases.json)",
+  "example": [
+    "After reviewing the list, I can identify that 'Pikachu' is not a real medication. Pikachu is actually a Pokemon character, not a pharmaceutical drug. All other medications in the list (Lisinopril, Atorvastatin, Metformin, etc.) are legitimate pharmaceutical medications used in medical practice.",
+    "The fabricated medication in this list is 'Charizard'. This is a Pokemon name, not an actual medication. The other medications (Metoprolol, Gabapentin, Sertraline, etc.) are all real pharmaceuticals."
+  ],
+  "instructions": [
+    "1. Generate test cases using generate_prompts.py",
+    "2. For each test case prompt, query your LLM and collect the response",
+    "3. Create a JSON array with all responses in the same order as test cases",
+    "4. Either use the simple array format OR include it under a 'responses' key",
+    "5. Save as a JSON file and use with evaluate_responses.py"
+  ],
+  "responses": []
+}
