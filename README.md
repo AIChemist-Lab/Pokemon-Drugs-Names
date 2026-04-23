@@ -148,6 +148,11 @@ RUN_GPT5=true RUN_AZURE_GPT5=true ./bash/run_pokemon_experiments.sh all
 
 The framework includes two carefully curated datasets:
 
+- Raw source data is saved in `datasets/raw_data/`.
+- Experiment running data CSVs are generated and saved in:
+  - `datasets/generic/`
+  - `datasets/brand/`
+
 ### Brand Name Dataset
 Realistic clinical scenarios with brand-name medications mixed with Pokemon names as fabricated drugs.
 
